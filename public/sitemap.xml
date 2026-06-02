@@ -3,22 +3,12 @@
   <url>
     <loc>https://trustfx-six.vercel.app/</loc>
   </url>
+
   <url>
     <loc>https://trustfx-six.vercel.app/login</loc>
   </url>
+
   <url>
     <loc>https://trustfx-six.vercel.app/register</loc>
-  </url>
-  <url>
-    <loc>https://trustfx-six.vercel.app/markets</loc>
-  </url>
-  <url>
-    <loc>https://trustfx-six.vercel.app/platforms</loc>
-  </url>
-  <url>
-    <loc>https://trustfx-six.vercel.app/about</loc>
-  </url>
-  <url>
-    <loc>https://trustfx-six.vercel.app/contact</loc>
   </url>
 </urlset>
